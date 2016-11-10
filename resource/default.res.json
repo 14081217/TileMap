@@ -1,0 +1,535 @@
+{
+	"resources": [
+		{
+			"name": "egretIcon",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "1_jpg",
+			"type": "image",
+			"url": "assets/人/1.jpg"
+		},
+		{
+			"name": "10001_png",
+			"type": "image",
+			"url": "assets/人/站立/10001.png"
+		},
+		{
+			"name": "10002_png",
+			"type": "image",
+			"url": "assets/人/站立/10002.png"
+		},
+		{
+			"name": "10003_png",
+			"type": "image",
+			"url": "assets/人/站立/10003.png"
+		},
+		{
+			"name": "10004_png",
+			"type": "image",
+			"url": "assets/人/站立/10004.png"
+		},
+		{
+			"name": "10005_png",
+			"type": "image",
+			"url": "assets/人/站立/10005.png"
+		},
+		{
+			"name": "10006_png",
+			"type": "image",
+			"url": "assets/人/站立/10006.png"
+		},
+		{
+			"name": "10007_png",
+			"type": "image",
+			"url": "assets/人/站立/10007.png"
+		},
+		{
+			"name": "10008_png",
+			"type": "image",
+			"url": "assets/人/站立/10008.png"
+		},
+		{
+			"name": "10009_png",
+			"type": "image",
+			"url": "assets/人/站立/10009.png"
+		},
+		{
+			"name": "10010_png",
+			"type": "image",
+			"url": "assets/人/站立/10010.png"
+		},
+		{
+			"name": "100012_png",
+			"type": "image",
+			"url": "assets/人/走路/10001.png"
+		},
+		{
+			"name": "100022_png",
+			"type": "image",
+			"url": "assets/人/走路/10002.png"
+		},
+		{
+			"name": "100032_png",
+			"type": "image",
+			"url": "assets/人/走路/10003.png"
+		},
+		{
+			"name": "100042_png",
+			"type": "image",
+			"url": "assets/人/走路/10004.png"
+		},
+		{
+			"name": "100052_png",
+			"type": "image",
+			"url": "assets/人/走路/10005.png"
+		},
+		{
+			"name": "100062_png",
+			"type": "image",
+			"url": "assets/人/走路/10006.png"
+		},
+		{
+			"name": "100072_png",
+			"type": "image",
+			"url": "assets/人/走路/10007.png"
+		},
+		{
+			"name": "100082_png",
+			"type": "image",
+			"url": "assets/人/走路/10008.png"
+		},
+		{
+			"name": "100092_png",
+			"type": "image",
+			"url": "assets/人/走路/10009.png"
+		},
+		{
+			"name": "100102_png",
+			"type": "image",
+			"url": "assets/人/走路/10010.png"
+		},
+		{
+			"name": "10011_png",
+			"type": "image",
+			"url": "assets/人/走路/10011.png"
+		},
+		{
+			"name": "10012_png",
+			"type": "image",
+			"url": "assets/人/走路/10012.png"
+		},
+		{
+			"name": "10013_png",
+			"type": "image",
+			"url": "assets/人/走路/10013.png"
+		},
+		{
+			"name": "10014_png",
+			"type": "image",
+			"url": "assets/人/走路/10014.png"
+		},
+		{
+			"name": "10015_png",
+			"type": "image",
+			"url": "assets/人/走路/10015.png"
+		},
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "g1_png",
+			"type": "image",
+			"url": "assets/g1.png"
+		},
+		{
+			"name": "g3_png",
+			"type": "image",
+			"url": "assets/g3.png"
+		},
+		{
+			"name": "g4_png",
+			"type": "image",
+			"url": "assets/g4.png"
+		},
+		{
+			"name": "g5_png",
+			"type": "image",
+			"url": "assets/g5.png"
+		},
+		{
+			"name": "g2_png",
+			"type": "image",
+			"url": "assets/g2.png"
+		},
+		{
+			"name": "100013_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10001.png"
+		},
+		{
+			"name": "100023_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10002.png"
+		},
+		{
+			"name": "100033_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10003.png"
+		},
+		{
+			"name": "100043_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10004.png"
+		},
+		{
+			"name": "100053_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10005.png"
+		},
+		{
+			"name": "100063_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10006.png"
+		},
+		{
+			"name": "100073_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10007.png"
+		},
+		{
+			"name": "100083_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10008.png"
+		},
+		{
+			"name": "100093_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10009.png"
+		},
+		{
+			"name": "100103_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10010.png"
+		},
+		{
+			"name": "100112_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10011.png"
+		},
+		{
+			"name": "100122_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10012.png"
+		},
+		{
+			"name": "100132_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10013.png"
+		},
+		{
+			"name": "100142_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10014.png"
+		},
+		{
+			"name": "100152_png",
+			"type": "image",
+			"url": "assets/12/人/走路/10015.png"
+		},
+		{
+			"name": "100014_png",
+			"type": "image",
+			"url": "assets/12/人/战斗待机/10001.png"
+		},
+		{
+			"name": "100024_png",
+			"type": "image",
+			"url": "assets/12/人/战斗待机/10002.png"
+		},
+		{
+			"name": "100034_png",
+			"type": "image",
+			"url": "assets/12/人/战斗待机/10003.png"
+		},
+		{
+			"name": "100044_png",
+			"type": "image",
+			"url": "assets/12/人/战斗待机/10004.png"
+		},
+		{
+			"name": "100054_png",
+			"type": "image",
+			"url": "assets/12/人/战斗待机/10005.png"
+		},
+		{
+			"name": "100064_png",
+			"type": "image",
+			"url": "assets/12/人/战斗待机/10006.png"
+		},
+		{
+			"name": "100074_png",
+			"type": "image",
+			"url": "assets/12/人/战斗待机/10007.png"
+		},
+		{
+			"name": "100084_png",
+			"type": "image",
+			"url": "assets/12/人/战斗待机/10008.png"
+		},
+		{
+			"name": "100094_png",
+			"type": "image",
+			"url": "assets/12/人/战斗待机/10009.png"
+		},
+		{
+			"name": "100104_png",
+			"type": "image",
+			"url": "assets/12/人/战斗待机/10010.png"
+		},
+		{
+			"name": "100015_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10001.png"
+		},
+		{
+			"name": "100025_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10002.png"
+		},
+		{
+			"name": "100035_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10003.png"
+		},
+		{
+			"name": "100045_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10004.png"
+		},
+		{
+			"name": "100055_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10005.png"
+		},
+		{
+			"name": "100065_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10006.png"
+		},
+		{
+			"name": "100075_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10007.png"
+		},
+		{
+			"name": "100085_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10008.png"
+		},
+		{
+			"name": "100095_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10009.png"
+		},
+		{
+			"name": "100105_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10010.png"
+		},
+		{
+			"name": "100016_png",
+			"type": "image",
+			"url": "assets/人/走路/10001.png"
+		},
+		{
+			"name": "100026_png",
+			"type": "image",
+			"url": "assets/人/走路/10002.png"
+		},
+		{
+			"name": "100036_png",
+			"type": "image",
+			"url": "assets/人/走路/10003.png"
+		},
+		{
+			"name": "100046_png",
+			"type": "image",
+			"url": "assets/人/走路/10004.png"
+		},
+		{
+			"name": "100056_png",
+			"type": "image",
+			"url": "assets/人/走路/10005.png"
+		},
+		{
+			"name": "100066_png",
+			"type": "image",
+			"url": "assets/人/走路/10006.png"
+		},
+		{
+			"name": "100076_png",
+			"type": "image",
+			"url": "assets/人/走路/10007.png"
+		},
+		{
+			"name": "100086_png",
+			"type": "image",
+			"url": "assets/人/走路/10008.png"
+		},
+		{
+			"name": "100096_png",
+			"type": "image",
+			"url": "assets/人/走路/10009.png"
+		},
+		{
+			"name": "100106_png",
+			"type": "image",
+			"url": "assets/人/走路/10010.png"
+		},
+		{
+			"name": "100113_png",
+			"type": "image",
+			"url": "assets/人/走路/10011.png"
+		},
+		{
+			"name": "100123_png",
+			"type": "image",
+			"url": "assets/人/走路/10012.png"
+		},
+		{
+			"name": "100133_png",
+			"type": "image",
+			"url": "assets/人/走路/10013.png"
+		},
+		{
+			"name": "100143_png",
+			"type": "image",
+			"url": "assets/人/走路/10014.png"
+		},
+		{
+			"name": "100153_png",
+			"type": "image",
+			"url": "assets/人/走路/10015.png"
+		},
+		{
+			"name": "100017_png",
+			"type": "image",
+			"url": "assets/人/站立/10001.png"
+		},
+		{
+			"name": "100027_png",
+			"type": "image",
+			"url": "assets/人/站立/10002.png"
+		},
+		{
+			"name": "100037_png",
+			"type": "image",
+			"url": "assets/人/站立/10003.png"
+		},
+		{
+			"name": "100047_png",
+			"type": "image",
+			"url": "assets/人/站立/10004.png"
+		},
+		{
+			"name": "100057_png",
+			"type": "image",
+			"url": "assets/人/站立/10005.png"
+		},
+		{
+			"name": "100067_png",
+			"type": "image",
+			"url": "assets/人/站立/10006.png"
+		},
+		{
+			"name": "100077_png",
+			"type": "image",
+			"url": "assets/人/站立/10007.png"
+		},
+		{
+			"name": "100087_png",
+			"type": "image",
+			"url": "assets/人/站立/10008.png"
+		},
+		{
+			"name": "100097_png",
+			"type": "image",
+			"url": "assets/人/站立/10009.png"
+		},
+		{
+			"name": "100107_png",
+			"type": "image",
+			"url": "assets/人/站立/10010.png"
+		},
+		{
+			"name": "100018_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10001.png"
+		},
+		{
+			"name": "100028_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10002.png"
+		},
+		{
+			"name": "100038_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10003.png"
+		},
+		{
+			"name": "100048_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10004.png"
+		},
+		{
+			"name": "100058_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10005.png"
+		},
+		{
+			"name": "100068_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10006.png"
+		},
+		{
+			"name": "100078_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10007.png"
+		},
+		{
+			"name": "100088_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10008.png"
+		},
+		{
+			"name": "100098_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10009.png"
+		},
+		{
+			"name": "100108_png",
+			"type": "image",
+			"url": "assets/人/战斗待机/10010.png"
+		},
+		{
+			"name": "12_jpg",
+			"type": "image",
+			"url": "assets/人/1.jpg"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "egretIcon,1_jpg,10001_png,10002_png,10003_png,10004_png,10005_png,10006_png,10007_png,10008_png,10009_png,10010_png,100012_png,100022_png,100032_png,100042_png,100052_png,100062_png,100072_png,100082_png,100092_png,100102_png,10011_png,10012_png,10013_png,10014_png,10015_png,bg_jpg,g1_png,g3_png,g4_png,g5_png,g2_png,100013_png,100023_png,100033_png,100043_png,100053_png,100063_png,100073_png,100083_png,100093_png,100103_png,100112_png,100122_png,100132_png,100142_png,100152_png,100014_png,100024_png,100034_png,100044_png,100054_png,100064_png,100074_png,100084_png,100094_png,100104_png,100015_png,100025_png,100035_png,100045_png,100055_png,100065_png,100075_png,100085_png,100095_png,100105_png,100016_png,100026_png,100036_png,100046_png,100056_png,100066_png,100076_png,100086_png,100096_png,100106_png,100113_png,100123_png,100133_png,100143_png,100153_png,100017_png,100027_png,100037_png,100047_png,100057_png,100067_png,100077_png,100087_png,100097_png,100107_png,100018_png,100028_png,100038_png,100048_png,100058_png,100068_png,100078_png,100088_png,100098_png,100108_png,12_jpg"
+		}
+	]
+}
